@@ -7,5 +7,5 @@
 
 ## Hướng dẫn sử dụng
 
-* [Căn bản](huong-dan-su-dung/can-ban.md)
+* [Tổng hợp](huong-dan-su-dung/tong-hop.md)
 
